@@ -1,0 +1,60 @@
+    html {
+      height: 100%;
+    }
+    body {
+       height: 100%;
+       background-color:;
+    }
+
+    header {
+        background-color:black;
+        padding:10px;
+        color: white;
+        font-size: 200%;
+        display: block;
+    }
+    nav {
+        line-height:150%;
+        height: 100%;
+        background-color:blanchedalmond;
+        width:20%;
+        display: inline-block;
+        vertical-align: top;
+        font-size: 120%
+    }
+    nav ul {
+        list-style-type: none;
+
+    }
+    a {
+        color: black;
+        font-size: 100%;
+        font: arial
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+        padding-left: 25px
+    }
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+    }
+    table, th, td {
+    border: ;
+     border-collapse: collapse;
+    }
+    th, td {
+    padding: 25px;
+    }
